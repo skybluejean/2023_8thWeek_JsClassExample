@@ -1,7 +1,7 @@
 {
   "name": "2023_8thweek_jsclassexample",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"change pages\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/skybluejean/2023_8thWeek_JsClassExample.git"
   },
-  "author": "",
+  "author": "\"jin\"",
   "type": "module",
   "license": "ISC",
   "bugs": {
